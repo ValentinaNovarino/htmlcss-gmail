@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://www.macitynet.it/wp-content/uploads/2020/06/sfondiios1400002-696x508.jpg);
+    background-size: cover;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+#logo{
+    width: 100px;
+    vertical-align: middle;
+}
+
+#logo-text{
+    font-size: 25px;
+    display: inline-block;
+    color: white;
+    vertical-align: middle;
+
+}
+
+#note{
+    color: white;
+}
+
+
+#unread-email{
+    background-color: orange;
+    border-radius: 50%;
+    padding: 5px;
+
+}
+
+.row{
+    display: inline-block;
+    background-color: #DCDCDC;
+    width: 1000px;
+    border-style: solid;
+    border-width: thin;
+}
+
+.row-read{
+    display: inline-block;
+    background-color: white;
+    width: 1000px;
+    border-style: solid;
+    border-width: thin;
+}
+
+
+#star{
+    display: inline-block;
+}
+
+#email-text{
+    color: grey;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+#gmail-footer{
+    font-size: 20px;
+}
